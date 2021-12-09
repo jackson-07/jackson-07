@@ -1,5 +1,3 @@
-# Jackson
-
 Hi there! :wave:
 
 I'm learning to code so reach out to me using the QR Code below and let me know how I'm doing:
