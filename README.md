@@ -1,7 +1,6 @@
 Hi there! :wave:
 
-I'm learning to code so reach out to me using the QR Code below and let me know how I'm doing:
+I'm learning to code so reach out to me using the QR Code below and see how I'm doing:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84482662/147173704-eb384586-f81a-4914-9a2a-cb3b8e368357.png" />
-</p>
+  <img src="https://user-images.githubusercontent.com/84482662/160035790-49e10369-0de4-45b1-b8d5-adfac6fa2ac6.png"/>
