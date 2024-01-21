@@ -3,11 +3,11 @@ let intro = "Hi my name is Jackson"
 const Jackson = {
     location: ["sydney, au"],
     contact: ["jackson.raymond07@gmail.com"],
-    currently: ["studying at General Assembly"],
-    learning: ["html", "css", "javascript", "python"],
     aboutMe: ["recruiter", "programmer", "writer"],
+    currently: ["studying at General Assembly"],
+    interests: ["html", "css", "javascript", "nodejs", "python"],
       funFact: {
-            secret: ["I'm an outdoor person with photic sneeze reflex"],
+            secret: ["My favourite TV show is Law & Order"],
         }        
     }
 };
