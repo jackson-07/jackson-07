@@ -6,7 +6,7 @@ const Jackson = {
     aboutMe: ["recruiter", "programmer", "writer"],
     currently: ["studying at General Assembly"],
     technology: ["html", "css", "javascript", "nodejs", "python"],
-      funFact: {
+    funFact: {
             secret: ["I really like Law & Order"],
         }        
 };
