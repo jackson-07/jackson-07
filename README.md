@@ -1,5 +1,5 @@
 ```javascript
-let intro = "Hi my name is Jackson"
+let intro = "Hi, my name is Jackson"
 const Jackson = {
     location: ["sydney, au"],
     contact: ["jackson.raymond07@gmail.com"],
@@ -7,8 +7,7 @@ const Jackson = {
     currently: ["studying at General Assembly"],
     technology: ["html", "css", "javascript", "nodejs", "python"],
       funFact: {
-            secret: ["My favourite TV show is Law & Order"],
+            secret: ["I really like Law & Order"],
         }        
-    }
 };
 ```
