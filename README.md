@@ -1,7 +1,7 @@
 ```javascript
-let intro = "Hi, my name is Jackson"
+let intro = "Hi, my name is Jackson";
 const Jackson = {
-    location: ["sydney, au"],
+    location: ["Sydney, AU"],
     contact: ["jackson.raymond07@gmail.com"],
     aboutMe: ["recruiter", "programmer", "writer"],
     currently: ["studying at General Assembly"],
