@@ -5,7 +5,7 @@ const Jackson = {
     contact: ["jackson.raymond07@gmail.com"],
     aboutMe: ["recruiter", "programmer", "writer"],
     currently: ["studying at General Assembly"],
-    technology: ["html", "css", "javascript", "nodejs", "express", "mongodb"],
+    technology: ["html", "css", "javascript", "python", "nodejs", "express", "django", "postresql", "mongodb"],
     funFact: {
             secret: ["I really like Law & Order"],
         }        
