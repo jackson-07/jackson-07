@@ -8,7 +8,7 @@ const Jackson = {
     technologies: ["html", "css", "javascript", "typescript, "sql",
                    "reactjs", "angular", "nodejs", "express", "postresql", "mongodb"],
     funFact: {
-            secret: ["I really like Law & Order"],
+            secret: ["My comfort show is Law & Order"],
         }        
 }
 ```
